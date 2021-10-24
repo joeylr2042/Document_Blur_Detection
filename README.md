@@ -1,1 +1,1 @@
-# Blur_Detection
+# DBlur_Detection
