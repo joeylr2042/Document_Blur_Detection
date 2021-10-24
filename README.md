@@ -1,1 +1,1 @@
-# DBlur_Detection
+# Document_Blur_Detection
