@@ -19,4 +19,4 @@ python blur_ops.py --image_path './bean-license.png' --output_path './gaussian_b
 ```
 Some results:
 
-![bean-license](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/bean-license_t.png)
+![bean-license](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/bean-license_t.png)![gaussian_blur](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/gaussian_blur_t.png)
