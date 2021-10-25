@@ -17,4 +17,6 @@ If you would like to blur document images, you can run `blur_ops.py` to simulate
 ```python
 python blur_ops.py --image_path './bean-license.png' --output_path './gaussian_blur.jpg' --blur_type 'gaussian blur'/'motion blur'
 ```
+Some results:
 
+![bean-license](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/bean-license_t.png)
