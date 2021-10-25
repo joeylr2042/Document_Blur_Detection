@@ -23,4 +23,4 @@ Some results:
 
 ![motion_blur_h](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/motion_blur_h_t.png)![motion_blur_v](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/motion_blur_v_t.png)
 
-![text_blur](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/text_blur_t.png)
+![text_blur](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/text_blur_t.jpg)
