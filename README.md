@@ -13,7 +13,8 @@ To run `main.py`, use the following command.
 ```python
 python ./main.py --image './text_blur.jpg' --thresh_v 300 --thresh_d 0.7
 ```
-
-
-
+If you would like to blur document images, you can run `blur_ops.py` to simulate motion blur and Gaussian blur. Use the following command.
+```python
+python blur_ops.py --image_path './bean-license.png' --output_path './gaussian_blur.jpg' --blur_type 'gaussian blur'/'motion blur'
+```
 
