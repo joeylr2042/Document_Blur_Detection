@@ -20,3 +20,5 @@ python blur_ops.py --image_path './bean-license.png' --output_path './gaussian_b
 Some results:
 
 ![bean-license](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/bean-license_t.png)![gaussian_blur](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/gaussian_blur_t.png)
+
+![motion_blur_h](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/motion_blur_h_t.png)![motion_blur_v](https://github.com/JoeyLr/Document_Blur_Detection/blob/main/imgs/motion_blur_v_t.png)
